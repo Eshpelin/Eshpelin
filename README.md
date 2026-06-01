@@ -24,8 +24,8 @@ A hands-on senior PM who writes his own prototypes, queries his own production d
 
 - **[SupplyLine](https://supplyline.network)** — Co-founder. B2B FinTech for an underbanked retail market. Credit decisioning, BNPL-style lending, and invoice discounting. 4,000+ retailers, around $2M in credit disbursed, currently raising Series A.
 - **[Nurby AI](https://nurby.ai)** — Founder. A privacy-first vision-language layer over existing camera infrastructure. Plain-language rules, with footage that never leaves the network.
-- **Learning Shaper** — Product Consultant. A K-12 ERP with embedded AI, live across 150+ schools and 40,000+ students.
-- **PorashonaOnline** — Co-founder. AI exam-prep for Bangladeshi board and BCS students.
+- **[Learning Shaper](https://learningshaper.com)** — Product Consultant. A K-12 ERP with embedded AI, live across 150+ schools and 40,000+ students.
+- **[PorashonaOnline](https://porashona.online)** — Co-founder. AI exam-prep for Bangladeshi board and BCS students.
 
 ### Writing
 

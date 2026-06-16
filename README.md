@@ -18,11 +18,11 @@ A hands-on senior PM who writes his own prototypes, queries his own production d
 ### What I'm doing now
 
 - Leading the platform and integrations teams at Optimizely. Headless APIs, the connector surface, and platform infrastructure across two teams.
-- Previously shaped an in-house agentic AI platform for Marketing and Experimentation Ops, with thousands of agents running in production across enterprise customers.
+- Nurby-ing
 
 ### What I've built
 
-- **[SupplyLine](https://supplyline.network)** — Co-founder. B2B FinTech for an underbanked retail market. Credit decisioning, BNPL-style lending, and invoice discounting. 4,000+ retailers, around $2M in credit disbursed, currently raising Series A.
+- **[SupplyLine](https://supplyline.network)** — B2B FinTech for an underbanked retail market. Credit decisioning, BNPL-style lending, and invoice discounting. 4,000+ retailers, around $2M in credit disbursed, currently raising Series A.
 - **[Nurby AI](https://nurby.ai)** — Founder. A privacy-first vision-language layer over existing camera infrastructure. Plain-language rules, with footage that never leaves the network.
 - **[Learning Shaper](https://learningshaper.com)** — Product Consultant. A K-12 ERP with embedded AI, live across 150+ schools and 40,000+ students.
 - **[PorashonaOnline](https://porashona.online)** — Co-founder. AI exam-prep for Bangladeshi board and BCS students.

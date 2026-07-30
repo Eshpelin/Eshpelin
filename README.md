@@ -7,7 +7,7 @@
 A hands-on senior PM who writes his own prototypes, queries his own production data, and ships A/B tests alongside engineering.
 
 [![Website](https://img.shields.io/badge/Website-eshpel.in-111111?style=flat-square&logo=safari&logoColor=white)](https://eshpel.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saquifalam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saquifalam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eshpelin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshpelin/)
 [![X](https://img.shields.io/badge/X-@eshpelin-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/eshpelin)
 [![Email](https://img.shields.io/badge/Email-eshpelin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eshpelin@gmail.com)
 
